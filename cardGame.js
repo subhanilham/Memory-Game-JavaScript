@@ -84,7 +84,6 @@ function conditions(){
             temp = [];
             p = 0;
             win++;
-            console.log(win);
         },500);
         
     }
@@ -107,6 +106,5 @@ function gameEnd(){
         gameContainer.style.marginTop = "200px"; 
         gameContainer.style.Color = "black"; 
         gameContainer.style.fontFamily = "Permanent marker , cursive"; 
-        console.log("isleyir");
     }
 }
