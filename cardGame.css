@@ -28,16 +28,4 @@ body{
     background-position:initial;
     background-size: cover;
     position: static;
-    /* transition: 1s;
-    animation-delay: 1ms;
-    transform-style: preserve-3d;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
 }
-
-/* .cards:hover{
-    background-color: black;
-    transform: rotateY(180deg);
-    background-image: url('khazar.png');
-    background-size: contain
-    ;
-} */
